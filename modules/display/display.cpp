@@ -58,6 +58,8 @@
 
 //=====[Declaration and initialization of public global objects]===============
 
+//GRUPO. Pines asociados al display (D0 a D9). Interfaz utilizada: paralelo 4 bits
+
 DigitalOut displayD0( D0 );
 DigitalOut displayD1( D1 );
 DigitalOut displayD2( D2 );
